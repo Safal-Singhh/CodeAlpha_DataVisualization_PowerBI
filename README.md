@@ -78,4 +78,4 @@ Using KPIs and visuals to identify key **insights** and **opportunities for opti
 
 ## 📢 Disclaimer
 
-This project is purely educational and not affiliated with the actual Blinkit brand. Data is assumed or simulated for learning purposes.
+This project is not affiliated with the actual Blinkit brand. Data is assumed or simulated for learning purposes.
