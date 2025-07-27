@@ -67,8 +67,6 @@ Using KPIs and visuals to identify key **insights** and **opportunities for opti
 
 ---
 
----
-
 ## 📌 Outcome & Insights
 
 - **Tier 3** locations generated the **highest total sales**.
