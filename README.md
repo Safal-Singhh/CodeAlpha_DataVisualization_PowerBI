@@ -66,3 +66,14 @@ Using KPIs and visuals to identify key **insights** and **opportunities for opti
 - **Custom Visualizations and Matrix Cards**
 
 ---
+
+---
+
+## 📌 Outcome & Insights
+
+- **Tier 3** locations generated the **highest total sales**.
+- **Supermarket Type 1** contributed the most revenue.
+- Regular-fat products dominated total sales.
+- Ratings are consistent (~4 stars) across outlet types.
+
+---
